@@ -1,0 +1,3 @@
+Hello, [[name]].
+You have just won $[[value]]!
+Well, $[[taxed_value]], after taxes.
